@@ -24,7 +24,8 @@ dependencies:
   google_fonts: ^5.1.0
   image_picker: ^0.8.9
   url_launcher: ^6.1.11
-
+  flutter_dotenv: ^5.2.1
+  
 dev_dependencies:
   flutter_test:
     sdk: flutter
